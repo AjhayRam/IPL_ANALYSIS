@@ -64,24 +64,6 @@ matplotlib
 seaborn
 scikit-learn
 
-**Install dependencies using:**
-bash
-Copy code
-pip install -r requirements.txt
-Instructions
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/ipl_analysis.git
-cd ipl_analysis
-Run the analysis:
-
-bash
-Copy code
-python ipl_analysis.py
-For predictions, modify the future_batter_data DataFrame with your input values in ipl_analysis.py.
-
 Visualizations and results are saved in the output folder.
 
 **Results**
